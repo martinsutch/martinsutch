@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey you 👀
+
+- 🔭 I’m currently working on 🤫 it's secret
+- 🌱 I’m currently learning 🍪 if my computer is gluten free
+- 📫 How to reach me: 🦉 owl post
+- 😄 Pronouns: 🏳️‍🌈 he/him
 
 <!--
 **martinsutch/martinsutch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
