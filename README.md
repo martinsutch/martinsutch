@@ -1,8 +1,6 @@
 ## Hey you 👀
 
-- 🔭 I’m currently working on 🤫 it's secret
-- 🌱 I’m currently learning 🍪 if my computer is gluten free
-- 📫 How to reach me: 🦉 owl post
+- 📫 How to reach me: 🦉 owl post  - or if you'd rather email me at martinsutch@gamil.com
 - 😄 Pronouns: 🏳️‍🌈 he/him
 
 <!--
