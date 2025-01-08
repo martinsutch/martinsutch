@@ -1,6 +1,6 @@
 ## Hey you 👀
 
-- 📫 How to reach me: 🦉 owl post  - or if you'd rather email me at martinsutch@gamil.com
+- 📫 How to reach me: 🦉 owl post  - or if you'd rather email me at martinsutch@gmail.com
 - 😄 Pronouns: 🏳️‍🌈 he/him
 
 <!--
